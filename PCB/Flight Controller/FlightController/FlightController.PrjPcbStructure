@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=MCU_Data_collector.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MCU_Data_collector.SchDoc|FileName=Power.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=MCU_Data_collector.SchDoc|FileName=RF_Data.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=MCU_Data_collector.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_MCU_Data_collector|SchDesignator=U_MCU_Data_collector|FileName=MCU_Data_collector.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU_Data_collector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_RF_Data|SchDesignator=U_RF_Data|FileName=RF_Data.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=RF_Data.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
